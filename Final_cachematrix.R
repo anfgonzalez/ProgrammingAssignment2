@@ -1,9 +1,3 @@
--	## Put comments here that give an overall description of what your
--	## functions do
--	
--	## Write a short comment describing this function
--	
--	makeCacheMatrix <- function(x = matrix()) {
 +	## these functions help to resolve the inverse of a matrix specially when 
 +	## this procedure it's executed more than one time or in a loop process
 +	 
